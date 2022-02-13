@@ -2,7 +2,7 @@
 
 def paralelo(*args):
     """
-    função para calcular resistores em paralelo
+    função para cálcular resistores em paralelo
     """
     n = len(args) # numero de resistores
     den = 0
