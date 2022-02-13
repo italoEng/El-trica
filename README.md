@@ -1,2 +1,2 @@
-# El-trica
+# Eletrica
 formulas para cálculos elétricos
